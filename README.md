@@ -1,7 +1,7 @@
 # 🌿 AI-Crop-Doctor
 
 <p align="center">
-  <img src="screenshots/banner.png" alt="AI Crop Doctor Banner" width="800"/>
+  <img src="Screenshorts/Screenshot 2025-04-11 223453.png" alt="AI Crop Doctor Banner" width="800"/>
 </p>
 
 ### **Transforming Agriculture, One Field at a Time 🌾**
@@ -21,7 +21,7 @@ Built with **React**, **Tailwind CSS**, and **AI-based automation** to bring **s
 - 🌱 **Modern UI** — Clean, responsive, and accessible design using **Tailwind CSS**.
 
 <p align="center">
-  <img src="screenshots/dashboard.png" alt="Dashboard Preview" width="700"/>
+  <img src="Screenshorts/Screenshot 2025-04-12 194542.png" alt="Dashboard Preview" width="700"/>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Built with **React**, **Tailwind CSS**, and **AI-based automation** to bring **s
 | **Architecture** | Modular Components & Reusable Hooks |
 
 <p align="center">
-  <img src="screenshots/ai-analysis.png" alt="AI Analysis Preview" width="700"/>
+  <img src="Screenshorts/Screenshot 2025-04-12 194434.png" alt="AI Analysis Preview" width="700"/> 
 </p>
 
 ---
