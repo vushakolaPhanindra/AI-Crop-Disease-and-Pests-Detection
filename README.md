@@ -85,8 +85,10 @@ AI-Crop-Doctor/
 <p align="center"> <img src="Screenshorts/Screenshot 2025-04-12 194434.png" alt="AI Analysis Preview" width="700"/> </p>
 ⚙️ Installation & Setup
 bash
-Copy code
+Copy code   
+
 # Clone the repository
+
 git clone https://github.com/vushakolaPhanindra/AI-Crop-Disease-and-Pests-Detection.git
 
 cd AI-Crop-Disease-and-Pests-Detection
