@@ -1,5 +1,5 @@
 # 🌿 AI-Crop-Doctor  
-![App Screenshot](Screenshorts/Screenshot 2025-04-11 223453.png)
+<p align="center"> <img src="Screenshorts/Screenshot 2025-04-11 223453.png" alt="AI Crop Doctor Banner" width="800"/> </p>
 
 An AI-powered smart farming assistant that helps farmers **diagnose crop diseases**, **get voice-enabled farming support**, and **visualize agricultural insights** — all from a single, intuitive platform.  
 
@@ -38,7 +38,7 @@ Built using **React**, **Tailwind CSS**, and AI-based automation, AI-Crop-Doctor
 - Data-driven insights for better decision-making  
 
 ---
-
+<p align="center"> <img src="Screenshorts/Screenshot 2025-04-12 194542.png" alt="Dashboard Preview" width="700"/> </p>
 ## 🛠️ Tech Stack
 
 | Category | Technologies |
@@ -82,14 +82,14 @@ AI-Crop-Doctor/
 └── vite.config.ts            # If using Vite
 ```
 
-
+<p align="center"> <img src="Screenshorts/Screenshot 2025-04-12 194434.png" alt="AI Analysis Preview" width="700"/> </p>
 ⚙️ Installation & Setup
 bash
 Copy code
 # Clone the repository
-git clone https://github.com/your-username/AI-Crop-Doctor.git
+git clone https://github.com/vushakolaPhanindra/AI-Crop-Disease-and-Pests-Detection.git
 
-cd AI-Crop-Doctor
+cd AI-Crop-Disease-and-Pests-Detection
 
 # Install dependencies
 npm install
